@@ -3,3 +3,5 @@
 This repository is the source code for the app on https://sadatlas.shinyapps.io/COVID-Map/
 
 Note: The app takes time to load on the shiny app servers.
+
+Source code provided under GNU GENERAL PUBLIC LICENSE Version 3
