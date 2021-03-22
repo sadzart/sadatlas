@@ -1,0 +1,12 @@
+name: COVID-Map
+title: COVID-Map
+username:
+account: sadatlas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2854417
+bundleId: 3653543
+url: https://sadatlas.shinyapps.io/COVID-Map/
+when: 1600712206.60525
+asMultiple: FALSE
+asStatic: FALSE
