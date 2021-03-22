@@ -2,7 +2,7 @@
 
 This repository is the source code for the app on https://sadatlas.shinyapps.io/COVID-Map/
 
-Main code file is **app.js**.
+Main code file is **app.R**.
 
 Note: The app takes time to load on the shiny app servers.
 
